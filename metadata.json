@@ -1,0 +1,5 @@
+{
+  "name": "Logistics Spreadsheet Transformer",
+  "description": "Transform warehouse movement data into a standardized logistics format and cross-reference with delivery romaneios using CSV matching.",
+  "requestFramePermissions": []
+}
